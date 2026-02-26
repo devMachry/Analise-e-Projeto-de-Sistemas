@@ -5,7 +5,7 @@ Diário de aulas de APS
 
 ## 1. Conceito
 
-O SDLC (Software Development Life Cycle) é um processo estruturado que define as etapas necessárias para planejar, desenvolver, testar e manter um software com qualidade.
+O SDLC é um processo estruturado que define as etapas necessárias para planejar, desenvolver, testar e manter um software com qualidade.
 
 ## 2. Fases do SDLC e Objetivos
 
