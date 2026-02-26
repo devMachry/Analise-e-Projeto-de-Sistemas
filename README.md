@@ -129,9 +129,6 @@ Baseado em ciclos com foco em análise de riscos.
 - **Scrum:** Estruturado, entregas periódicas.
 - **Kanban:** Flexível, foco em fluxo contínuo.
 
-Segue as referências formatadas em **Markdown (.md)**:
-
-
 # Referências
 
 AMAZON WEB SERVICES (AWS). *O que é o SDLC (ciclo de vida de desenvolvimento de software)?* Disponível em: <https://aws.amazon.com/pt/what-is/sdlc/>. Acesso em: 25 fev. 2026.
